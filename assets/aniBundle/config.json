@@ -1,0 +1,96 @@
+{
+    "importBase": "import",
+    "nativeBase": "native",
+    "name": "aniBundle",
+    "deps": [
+        "main"
+    ],
+    "uuids": [
+        "135aec12-874e-4bd8-841e-6359ff461316",
+        "135aec12-874e-4bd8-841e-6359ff461316@6c48a",
+        "135aec12-874e-4bd8-841e-6359ff461316@f9941",
+        "2dba4078-9361-4d12-bd36-3fa59e21875b",
+        "2ee458bc-7b2b-4baf-a74b-a5f0417033b5",
+        "2ee458bc-7b2b-4baf-a74b-a5f0417033b5@6c48a",
+        "2ee458bc-7b2b-4baf-a74b-a5f0417033b5@f9941",
+        "6bd627c3-f954-43df-984d-c3b87ad6a35c",
+        "d141dc7c-668b-4e00-a718-8a65a417d65f",
+        "f31793ec-563e-4d4e-96e8-23e43af07615"
+    ],
+    "paths": {
+        "d141dc7c-668b-4e00-a718-8a65a417d65f": [
+            "guideAnimation/skeleton",
+            "cc.Asset",
+            1
+        ],
+        "6bd627c3-f954-43df-984d-c3b87ad6a35c": [
+            "guideAnimation/skeleton",
+            "sp.SkeletonData",
+            1
+        ],
+        "135aec12-874e-4bd8-841e-6359ff461316": [
+            "guideAnimation/skeleton",
+            "cc.ImageAsset",
+            1
+        ],
+        "135aec12-874e-4bd8-841e-6359ff461316@6c48a": [
+            "guideAnimation/skeleton/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "135aec12-874e-4bd8-841e-6359ff461316@f9941": [
+            "guideAnimation/skeleton/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "2dba4078-9361-4d12-bd36-3fa59e21875b": [
+            "startAnimation/skeleton",
+            "cc.Asset",
+            1
+        ],
+        "f31793ec-563e-4d4e-96e8-23e43af07615": [
+            "startAnimation/skeleton",
+            "sp.SkeletonData",
+            1
+        ],
+        "2ee458bc-7b2b-4baf-a74b-a5f0417033b5": [
+            "startAnimation/skeleton",
+            "cc.ImageAsset",
+            1
+        ],
+        "2ee458bc-7b2b-4baf-a74b-a5f0417033b5@6c48a": [
+            "startAnimation/skeleton/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "2ee458bc-7b2b-4baf-a74b-a5f0417033b5@f9941": [
+            "startAnimation/skeleton/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ]
+    },
+    "scenes": {},
+    "packs": {},
+    "versions": {
+        "import": [],
+        "native": []
+    },
+    "redirect": [
+        "135aec12-874e-4bd8-841e-6359ff461316",
+        "0",
+        "135aec12-874e-4bd8-841e-6359ff461316@6c48a",
+        "0",
+        "2ee458bc-7b2b-4baf-a74b-a5f0417033b5",
+        "0",
+        "2ee458bc-7b2b-4baf-a74b-a5f0417033b5@6c48a",
+        "0",
+        "6bd627c3-f954-43df-984d-c3b87ad6a35c",
+        "0",
+        "f31793ec-563e-4d4e-96e8-23e43af07615",
+        "0"
+    ],
+    "debug": true,
+    "extensionMap": {},
+    "hasPreloadScript": true,
+    "dependencyRelationships": {}
+}

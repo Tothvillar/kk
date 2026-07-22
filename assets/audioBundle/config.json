@@ -1,0 +1,213 @@
+{
+    "importBase": "import",
+    "nativeBase": "native",
+    "name": "audioBundle",
+    "deps": [],
+    "uuids": [
+        "05f0576d-20ca-45e5-8cac-7bde0505a9ef",
+        "0d4b6f77-3e37-433d-a761-d2301d183f8d",
+        "12c1b8af-48d2-46ee-a695-c172e4402e83",
+        "198fd24d-fe85-473b-a3c3-e4715b9a8da9",
+        "254db0b6-c388-4e1f-877d-0c50cfe81643",
+        "32a130e2-5a90-4c07-b4b2-42fa07f85ccb",
+        "379509ce-e715-43be-8f74-634aee694e4a",
+        "40601e4b-21b0-419e-9279-5f195824038f",
+        "486bd684-acd2-4179-86a0-4982c3d2b577",
+        "51cd2f28-1a93-404f-a2d8-000081e54700",
+        "5cc64a68-f024-4020-84ce-aaeaf24ae4c4",
+        "68d3033b-e0b4-4c52-aaf1-1d2d9d886147",
+        "69c88ad7-1b46-45a1-9ca1-b81107a24474",
+        "73bdcd8b-ad0f-4c18-8d57-8266a0c7d94f",
+        "73e9fa86-93a0-444e-9b5f-cc4e3851727a",
+        "7e06696e-6616-481e-a048-c5bcbe47a1eb",
+        "836e5fb2-38cc-44cc-8f8d-97a7af0a7c7f",
+        "85619ea5-4e54-42f2-8dc3-31a0f101c34f",
+        "91b56c0c-8c52-400c-bfa5-5739e2aed6aa",
+        "9559d5ce-787a-4586-93d8-d57e6dd8da9d",
+        "960d827f-fed0-42ae-b9d0-642738b0c9df",
+        "99827c42-6a9b-4c41-a6fe-0ebab3500c91",
+        "9b68a644-7462-4dd9-9914-dae17b99dcab",
+        "9b8676c8-1d0b-4681-9116-a1e3268192ae",
+        "aa7057e3-443b-4253-af1c-1b8ff476b58c",
+        "acdcd3f0-f5e5-4a02-9bfc-9114b8a30dcf",
+        "b164889b-5675-4181-a2ca-4bdcfde62f8e",
+        "c3b518d8-e7c7-4236-9e57-72c27d3e2223",
+        "c6c09f94-d422-4543-882f-c2c91844fe11",
+        "de320c29-81b4-445e-92e8-6ede3208756e",
+        "f402e5a9-7324-4e32-a764-895ca42d91e2",
+        "f6266072-4ed9-4399-b103-c885d7fb2a26"
+    ],
+    "paths": {
+        "f402e5a9-7324-4e32-a764-895ca42d91e2": [
+            "bgm",
+            "cc.AudioClip",
+            1
+        ],
+        "acdcd3f0-f5e5-4a02-9bfc-9114b8a30dcf": [
+            "click",
+            "cc.AudioClip",
+            1
+        ],
+        "32a130e2-5a90-4c07-b4b2-42fa07f85ccb": [
+            "colliderStone",
+            "cc.AudioClip",
+            1
+        ],
+        "91b56c0c-8c52-400c-bfa5-5739e2aed6aa": [
+            "doge",
+            "cc.AudioClip",
+            1
+        ],
+        "aa7057e3-443b-4253-af1c-1b8ff476b58c": [
+            "error",
+            "cc.AudioClip",
+            1
+        ],
+        "40601e4b-21b0-419e-9279-5f195824038f": [
+            "fail",
+            "cc.AudioClip",
+            1
+        ],
+        "85619ea5-4e54-42f2-8dc3-31a0f101c34f": [
+            "full",
+            "cc.AudioClip",
+            1
+        ],
+        "254db0b6-c388-4e1f-877d-0c50cfe81643": [
+            "getDoge",
+            "cc.AudioClip",
+            1
+        ],
+        "836e5fb2-38cc-44cc-8f8d-97a7af0a7c7f": [
+            "lose",
+            "cc.AudioClip",
+            1
+        ],
+        "99827c42-6a9b-4c41-a6fe-0ebab3500c91": [
+            "nailPop",
+            "cc.AudioClip",
+            1
+        ],
+        "f6266072-4ed9-4399-b103-c885d7fb2a26": [
+            "qt",
+            "cc.AudioClip",
+            1
+        ],
+        "c3b518d8-e7c7-4236-9e57-72c27d3e2223": [
+            "ribbon",
+            "cc.AudioClip",
+            1
+        ],
+        "960d827f-fed0-42ae-b9d0-642738b0c9df": [
+            "showGame2",
+            "cc.AudioClip",
+            1
+        ],
+        "7e06696e-6616-481e-a048-c5bcbe47a1eb": [
+            "success1",
+            "cc.AudioClip",
+            1
+        ],
+        "198fd24d-fe85-473b-a3c3-e4715b9a8da9": [
+            "warning",
+            "cc.AudioClip",
+            1
+        ],
+        "9b8676c8-1d0b-4681-9116-a1e3268192ae": [
+            "winDoge",
+            "cc.AudioClip",
+            1
+        ],
+        "c6c09f94-d422-4543-882f-c2c91844fe11": [
+            "woodHit_1",
+            "cc.AudioClip",
+            1
+        ],
+        "0d4b6f77-3e37-433d-a761-d2301d183f8d": [
+            "woodHit_2",
+            "cc.AudioClip",
+            1
+        ],
+        "69c88ad7-1b46-45a1-9ca1-b81107a24474": [
+            "woodHit_3",
+            "cc.AudioClip",
+            1
+        ],
+        "de320c29-81b4-445e-92e8-6ede3208756e": [
+            "comboMusic/combo_1",
+            "cc.AudioClip",
+            1
+        ],
+        "73e9fa86-93a0-444e-9b5f-cc4e3851727a": [
+            "comboMusic/combo_10",
+            "cc.AudioClip",
+            1
+        ],
+        "9b68a644-7462-4dd9-9914-dae17b99dcab": [
+            "comboMusic/combo_2",
+            "cc.AudioClip",
+            1
+        ],
+        "05f0576d-20ca-45e5-8cac-7bde0505a9ef": [
+            "comboMusic/combo_3",
+            "cc.AudioClip",
+            1
+        ],
+        "12c1b8af-48d2-46ee-a695-c172e4402e83": [
+            "comboMusic/combo_4",
+            "cc.AudioClip",
+            1
+        ],
+        "379509ce-e715-43be-8f74-634aee694e4a": [
+            "comboMusic/combo_5",
+            "cc.AudioClip",
+            1
+        ],
+        "b164889b-5675-4181-a2ca-4bdcfde62f8e": [
+            "comboMusic/combo_6",
+            "cc.AudioClip",
+            1
+        ],
+        "486bd684-acd2-4179-86a0-4982c3d2b577": [
+            "comboMusic/combo_7",
+            "cc.AudioClip",
+            1
+        ],
+        "5cc64a68-f024-4020-84ce-aaeaf24ae4c4": [
+            "comboMusic/combo_8",
+            "cc.AudioClip",
+            1
+        ],
+        "68d3033b-e0b4-4c52-aaf1-1d2d9d886147": [
+            "comboMusic/combo_9",
+            "cc.AudioClip",
+            1
+        ],
+        "51cd2f28-1a93-404f-a2d8-000081e54700": [
+            "woodDrop/woodDrop_1",
+            "cc.AudioClip",
+            1
+        ],
+        "9559d5ce-787a-4586-93d8-d57e6dd8da9d": [
+            "woodDrop/woodDrop_2",
+            "cc.AudioClip",
+            1
+        ],
+        "73bdcd8b-ad0f-4c18-8d57-8266a0c7d94f": [
+            "woodDrop/woodDrop_3",
+            "cc.AudioClip",
+            1
+        ]
+    },
+    "scenes": {},
+    "packs": {},
+    "versions": {
+        "import": [],
+        "native": []
+    },
+    "redirect": [],
+    "debug": true,
+    "extensionMap": {},
+    "hasPreloadScript": true,
+    "dependencyRelationships": {}
+}
